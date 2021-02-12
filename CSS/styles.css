@@ -1,0 +1,15 @@
+body {
+    background-color:papayawhip;
+  }
+hr {
+    background: none;
+    border-style: dotted none none none;
+    border-top: 4px dotted #fc9;
+    width: 4%
+  }
+h1 {
+  color: #91091e
+}
+h3 {
+  color: #91091e
+}
